@@ -2,6 +2,6 @@
   "name": "your-project-name",
   "version": "1.0.0",
   "scripts": {
-    "build": "your-build-command-here"
+    "build": "echo 'No build required'"
   }
 }
